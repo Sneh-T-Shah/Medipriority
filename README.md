@@ -87,6 +87,7 @@ MediPriority is an AI-driven healthcare management system designed to streamline
 ## Conclusion
 MediPriority is a comprehensive, AI-driven healthcare management system with significant potential for scalability and real-world impact. Its innovative features and efficient design aim to transform healthcare delivery, improving outcomes, efficiency, and patient satisfaction. Successful implementation and scaling will require careful management of technical, regulatory, and social challenges.
 
+
 ## Contact
-For further information, please contact neeldevenshah.ai@gmail.com.
+For further information, please contact snehs5483@gmail.com.
 
